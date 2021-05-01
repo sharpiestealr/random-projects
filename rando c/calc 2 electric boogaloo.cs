@@ -48,7 +48,7 @@ namespace calc2_electric_boogaloo
             else if (calc == "gift")
             {
                 double gift = 0;
-                int count = 0;
+                int count = 1;
 
                 while (count != 6)
                 {

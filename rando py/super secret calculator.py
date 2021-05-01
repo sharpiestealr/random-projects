@@ -30,6 +30,6 @@ elif (calc == "gift"):
         r = float(input("how many stars does the game have? please type 4 if you cannot find a rating. "))
         quagnag = float(input("did they play a quagnag mirror? 1 = yes, 0 = no"))
 
-        gif = gif + gift(e, j, p, g, r) + n*gift(e, j, p, g, r)
+        gif = gif + gift(e, j, p, g, r) + quagnag*gift(e, j, p, g, r)
 
     print("\nthis player's gift card score is: ", gif)

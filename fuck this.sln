@@ -9,8 +9,6 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "the re-fuckening", "the re-
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "server", "server\server.pyproj", "{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rando py", "randos\rando py.pyproj", "{BA3051E6-941A-4929-91B7-8B06A18E7FC0}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "projeto 3", "projeto 3\projeto 3.pyproj", "{151E94CA-EF99-4794-A4F4-57CF05152377}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pf 2020-1", "pf 2020-1\pf 2020-1.pyproj", "{F315641C-1B79-4749-B4DB-1294A1687B22}"
@@ -20,6 +18,10 @@ EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "modsim2", "modsim2\modsim2.pyproj", "{F968CDF4-BDAE-4EA5-88F1-68CB2A8F2A74}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rando c", "rando c\rando c.csproj", "{554BE8B1-8A90-4794-B335-5E988A352248}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB030E07-3640-4184-A984-4EF4F8848FCB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rando py", "rando py\rando py.pyproj", "{BA3051E6-941A-4929-91B7-8B06A18E7FC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,8 +35,6 @@ Global
 		{4424C7F3-3634-4B4E-B223-DF9052CDB11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{151E94CA-EF99-4794-A4F4-57CF05152377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{151E94CA-EF99-4794-A4F4-57CF05152377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F315641C-1B79-4749-B4DB-1294A1687B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -47,6 +47,8 @@ Global
 		{554BE8B1-8A90-4794-B335-5E988A352248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554BE8B1-8A90-4794-B335-5E988A352248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554BE8B1-8A90-4794-B335-5E988A352248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
