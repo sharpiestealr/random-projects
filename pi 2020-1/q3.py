@@ -1,5 +1,5 @@
 def classifica_lista(lista):
-    if len(lista) >= 2:
+    if len(lista) <= 2:
         resposta = "nenhum"
     elif lista == sorted(lista):
         resposta = "crescente"
@@ -8,3 +8,6 @@ def classifica_lista(lista):
     else:
         resposta = "nenhum"
     return resposta
+
+#Condição do primeiro if está invertida. Deveria ser < 2.
+#Não deveria usar o sorted.

@@ -14,3 +14,5 @@ def agrupa_por_idade(dicO):
             idade['idoso'] = nome[count]
         count +=1
     return idade
+
+#"muitos erros"

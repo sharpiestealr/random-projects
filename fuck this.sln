@@ -5,6 +5,22 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ai 2020", "ai 2020.pyproj", "{9CC0173A-FF57-4F42-A2EA-EEEEBC2DFD1C}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "the re-fuckening", "the re-fuckening\the re-fuckening.pyproj", "{4424C7F3-3634-4B4E-B223-DF9052CDB11E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "server", "server\server.pyproj", "{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "rando py", "randos\rando py.pyproj", "{BA3051E6-941A-4929-91B7-8B06A18E7FC0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "projeto 3", "projeto 3\projeto 3.pyproj", "{151E94CA-EF99-4794-A4F4-57CF05152377}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pf 2020-1", "pf 2020-1\pf 2020-1.pyproj", "{F315641C-1B79-4749-B4DB-1294A1687B22}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "delta_p", "..\delta_p\delta_p\delta_p.pyproj", "{7832EAC8-67E6-4550-982C-FC401DF10097}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "modsim2", "modsim2\modsim2.pyproj", "{F968CDF4-BDAE-4EA5-88F1-68CB2A8F2A74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rando c", "rando c\rando c.csproj", "{554BE8B1-8A90-4794-B335-5E988A352248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +29,24 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9CC0173A-FF57-4F42-A2EA-EEEEBC2DFD1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9CC0173A-FF57-4F42-A2EA-EEEEBC2DFD1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4424C7F3-3634-4B4E-B223-DF9052CDB11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4424C7F3-3634-4B4E-B223-DF9052CDB11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9C4D1E-460E-4D02-9363-CEA61F664EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3051E6-941A-4929-91B7-8B06A18E7FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151E94CA-EF99-4794-A4F4-57CF05152377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151E94CA-EF99-4794-A4F4-57CF05152377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F315641C-1B79-4749-B4DB-1294A1687B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F315641C-1B79-4749-B4DB-1294A1687B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7832EAC8-67E6-4550-982C-FC401DF10097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7832EAC8-67E6-4550-982C-FC401DF10097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F968CDF4-BDAE-4EA5-88F1-68CB2A8F2A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F968CDF4-BDAE-4EA5-88F1-68CB2A8F2A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554BE8B1-8A90-4794-B335-5E988A352248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554BE8B1-8A90-4794-B335-5E988A352248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554BE8B1-8A90-4794-B335-5E988A352248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554BE8B1-8A90-4794-B335-5E988A352248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
